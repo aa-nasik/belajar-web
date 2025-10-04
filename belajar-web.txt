@@ -2,3 +2,4 @@ Belajar Web
 -Membuat konten pembelajaran tentang cara menggunakan n8n
 -Mengkomersialisasi konten tersebut di LMS wordpress
 -Mengiklankan di meta ads
+-Membuat website undangan online
